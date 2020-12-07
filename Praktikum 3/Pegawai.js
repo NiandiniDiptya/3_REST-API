@@ -203,7 +203,7 @@
 
 
 
-14.	    );
-15.	  }
-16.	}
-17.	export default Pegawai;
+	    );
+	  }
+	}
+	export default Pegawai;
